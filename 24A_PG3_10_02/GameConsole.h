@@ -2,11 +2,8 @@
 
 class GameConsole {
 public:
-
+	//âºëzä÷êî
 	virtual void SwitchOn();
 	virtual void Game();
 	virtual void SwitchOff();
-
-	//virtual ~GameConsole();
-
 };
